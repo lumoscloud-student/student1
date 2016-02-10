@@ -11,10 +11,10 @@
   }
 }
 ###Hello this is a test ###
-hahahahahahahahaha 2
+
 =======
 # student1
-Hahahahahaha
+Hello from the other side!!!
 
 
 >>>>>>> origin/master
