@@ -12,6 +12,9 @@ CSCO
 =======
 Hello from the other side!!!
 
+word to the mother - new lines
+
+
 
 >>>>>>> origin/master
 >>>>>>> origin/master
