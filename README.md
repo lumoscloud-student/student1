@@ -4,8 +4,8 @@
 =======
 # student1
 <<<<<<< HEAD
-Hello world
-Iselin Office - Student1x
+Hello Class Mate
+Iselin Office Dev Op course in Bangkok- Student1
 Yo 
 "You have to learn the rules of the game. And then you have to play better than anyone else"
 CSCO
