@@ -5,7 +5,9 @@
 # student1
 <<<<<<< HEAD
 Hello Class Mate
-Iselin Office Dev Op course in Bangkok- Student1
+Iselin Office Dev Op course in Bangkok- Student1 
+Nice class!
+16 march 2016
 Yo 
 "You have to learn the rules of the game. And then you have to play better than anyone else"
 CSCO
