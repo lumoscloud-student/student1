@@ -4,20 +4,7 @@
 =======
 # student1
 <<<<<<< HEAD
-Hello Class Mate
-Iselin Office Dev Op course in Bangkok- Student1 
-Nice class!
-16 march 2016
-Yo 
-"You have to learn the rules of the game. And then you have to play better than anyone else"
-CSCO
+I believe I can fly!! I believe I can Soar!!
 >>>>>>>
 =======
-Hello from the other side!!!
-
-word to the mother - new lines
-
-
-
->>>>>>> origin/master
->>>>>>> origin/master
+Hello from the Peterborough
